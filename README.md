@@ -1,7 +1,7 @@
 # Rutinas
 "rutina de ejercicios en hithub"
 
-# tiron 
+# Tiron 
 * front: 
     * especificos: 
         - propiocepcion de front y pull up de front 3 X 3:
