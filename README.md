@@ -5,7 +5,7 @@
 * front: 
     * especificos: 
         - propiocepcion de front y pull up de front 3 X 3:
-            pull explosiva
+            + pull explosiva
             resistencia isometrica
             negativa lenta
 
