@@ -2,7 +2,9 @@
 "rutina de ejercicios en hithub"
 
 # Tiron 
-* front: 
+* front:
+  tips:
+  https://www.instagram.com/reel/Ct2UG9qNZrr/?igshid=MzRlODBiNWFlZA==
     * especificos: 
         - propiocepcion de front y pull up de front 3 X 3:
             + pull explosiva
